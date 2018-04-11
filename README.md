@@ -1,5 +1,5 @@
 # argos-indicator-cpupower
-![Cpupower Argos Based Governor Indicator]()  ![Cpupower Argos Based Governor Indicator]()
+![Cpupower Argos Based Governor Indicator](https://github.com/cyberalex4life/argos-indicator-cpupower/blob/master/screenshots/cpupower_1.jpg)  ![Cpupower Argos Based Governor Indicator](https://github.com/cyberalex4life/argos-indicator-cpupower/blob/master/screenshots/cpupower_2.jpg)
 
 #### Installation
 Install [Argos](https://extensions.gnome.org/extension/1176/argos/) Gnome-Shell extension.
