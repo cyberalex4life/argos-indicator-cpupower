@@ -7,7 +7,7 @@ Gnome Shell Indicator for switching CPU governors using Argos API. Only Intel P-
 - [Argos](https://extensions.gnome.org/extension/1176/argos/) Gnome Shell extension.
 - cpupower (linux-tools-common): `sudo apt install linux-tools-common`
 - one of the following:
-    - [pkroot](https://github.com/cyberalex4life/pkroot) - minimum already provided in github repository
+    - [pkroot](https://github.com/cyberalex4life/pkroot) - minimum already provided in this repository
     - gksu: `sudo apt install gksu`
     - gnomesu - OpenSuSE only
 
